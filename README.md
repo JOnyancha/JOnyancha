@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JOnyancha
 - 👀 I’m interested in machine learning and data analytics
-- 🌱 I’m currently learning deep learning with neural networks
+- 🌱 I’m currently learning image classification using CNN
 - 💞️ I’m looking to collaborate on Machine learning projects
 
 
